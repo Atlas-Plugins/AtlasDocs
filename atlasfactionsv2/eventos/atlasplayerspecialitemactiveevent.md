@@ -1,0 +1,15 @@
+---
+description: Este evento é chamado quando um player ativa um item especial no servidor.
+---
+
+# AtlasPlayerSpecialItemActiveEvent
+
+## Métodos disponíveis:
+
+* getPlayer() - Retorna o jogador que recuperou poder.
+* getFactionUser() - Retorna o objeto AtlasFactionUser do jogador que recuperou poder.
+
+### Implementa as interfaces:
+
+* Cancellable
+
