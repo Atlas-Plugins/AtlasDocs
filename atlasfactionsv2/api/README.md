@@ -1,5 +1,6 @@
 ---
 description: Página da API do AtlasFactionsV2
+layout: editorial
 ---
 
 # API
