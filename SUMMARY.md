@@ -23,10 +23,3 @@
   * [AtlasPlayerSpecialItemActiveEvent](atlasfactionsv2/eventos/atlasplayerspecialitemactiveevent.md)
   * [AtlasPlayerPowerRecoverEvent](atlasfactionsv2/eventos/atlaspowerrecoverevent.md)
   * [AtlasFactionCreatureSpawnTeleportationEvent](atlasfactionsv2/eventos/atlasfactioncreaturespawnteleportationevent.md)
-
-## ATLASCLANS
-
-***
-
-* [API](api/README.md)
-  * [AtlasClansAPI.class](api/untitled-1.md)
